@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome! I'm Wonoo Kim</h1>
+<h1>👋 Welcome! I'm Wonoo Kim</h1>
 
 <h3>💡 About Me 💡</h3>
 백엔드 개발자로서 Spring Boot, Flask를 활용한 웹/앱 서비스 개발과 AWS 기반 인프라 운영을 경험했습니다.  
